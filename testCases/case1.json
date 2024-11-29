@@ -1,0 +1,32 @@
+{
+    "width": 10,
+    "height": 10,
+    "agent": {
+        "position": [0, 0],
+        "size": [2, 1]
+    },
+    "parkables": [
+        {
+            "position": [9, 0],
+            "size": [1, 2]
+        },
+        {
+            "position": [8, 3],
+            "size": [2, 2]
+        },
+        {
+            "position": [8, 6],
+            "size": [1, 2]
+        }
+    ],
+    "obstacles": [
+        {
+            "position": [4, 3],
+            "size": [3, 3]
+        },
+        {
+            "position": [2, 7],
+            "size": [5, 2]
+        }
+    ]
+}
